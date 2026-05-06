@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "description": "Complete redesign of company website",
+    "status": "In Progress",
+    "progress": 65,
+    "startDate": "2026-01-15",
+    "endDate": "2026-06-30",
+    "assignedEmployees": [1],
+    "budget": 50000,
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "name": "Mobile App Development",
+    "description": "Build mobile app for iOS and Android",
+    "status": "In Progress",
+    "progress": 40,
+    "startDate": "2026-02-01",
+    "endDate": "2026-08-31",
+    "assignedEmployees": [2],
+    "budget": 100000,
+    "priority": "High"
+  }
+]
